@@ -1,4 +1,5 @@
 var myApp = new Framework7({
+   pushState: true,   //使用pushState参数，实现pajx
     modalTitle: 'Framework7',
     animateNavBackIcon: true,
 });
